@@ -1,2 +1,4 @@
 npm-demo/node_modules/
+lion-lib/node_modules/
+express-demo/node_modules/
 .idea/*
